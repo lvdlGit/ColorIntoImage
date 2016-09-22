@@ -16,5 +16,7 @@
 
 + (UIImage *)imageWithColor:(UIColor *)color cornerRadius:(CGFloat)cornerRadius;
 
++ (UIImage *)imageWithUIView:(UIView *)view;
+
 
 @end
